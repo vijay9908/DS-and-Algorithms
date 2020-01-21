@@ -1,2 +1,2 @@
 # DSA_Implementations
-This Repo consists of all the stuff I leant and implemented in Java😄
+Contains all the academic and self learnt data structure's and algorithm's implemented in Python and Java.
